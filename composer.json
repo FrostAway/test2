@@ -1,0 +1,19 @@
+{
+    "name": "lamnv/test2",
+    "description": "test 2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lamnv",
+            "email": "lamnv@rikkeisoft.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devpa\\Test2\\": "src/"
+        }
+    }
+}
